@@ -3,7 +3,6 @@
 It's a very nice place to **dine in**. There is park behind this restaurant where we guy's make much fun all the time. And the restaurant has good place for children to play. As it is very **hyginic place** we prefered to go there all the time during our free time.
 
 **************
-
 # Route to Rajiv Gandhi International Airport
 1. Distance from Airport to my favourite food court is 2.2 miles
 2. Directions
@@ -16,6 +15,3 @@ It's a very nice place to **dine in**. There is park behind this restaurant wher
 * Chocolate cookies
     * Bagel
     * Hot chocolate
-
-
-
