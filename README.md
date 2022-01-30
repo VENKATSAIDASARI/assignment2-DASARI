@@ -12,6 +12,11 @@ It's a very nice place to **dine in**. There is park behind this restaurant wher
    2. Then turn Left and go for 0.5 miles
    3. Take the next Right and go for 0.7 miles 
    4. The destination is on the left.
-
+* French Toast
+* Eggs Benedict
+* Chocolate cookies
+    * Bagel
+    * Hot chocolate
+    
 
 
