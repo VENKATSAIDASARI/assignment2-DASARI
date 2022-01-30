@@ -4,7 +4,6 @@ It's a very nice place to **dine in**. There is park behind this restaurant wher
 
 **************
 
- Horizontal Rule
 # Route to Rajiv Gandhi International Airport
 1. Distance from Airport to my favourite food court is 2.2 miles
 2. Directions
@@ -17,6 +16,6 @@ It's a very nice place to **dine in**. There is park behind this restaurant wher
 * Chocolate cookies
     * Bagel
     * Hot chocolate
-    
+
 
 
