@@ -33,12 +33,7 @@ Let us have a look at this page [DataStructures](https://www.geeksforgeeks.org/d
     return find_set(parent[v]);
                      }
 
-    void union_sets(int a, int b) {
-    a = find_set(a);
-    b = find_set(b);
-    if (a != b)
-        parent[b] = a;  
-                                  }
+   
    }
 ~~~
 Go through this link for program[Code](https://cp-algorithms.com/data_structures/disjoint_set_union.html)
