@@ -13,6 +13,6 @@ Here is my favourite car ![rangerover](Documents/webapps-repos/assignment1-DASAR
 
 ---
 # My Favourite Quotes
-> Everything comes to us that belongs to us if we create the capacity to receive it.  *Ravindranath Tagore* <br>
-> If the deaf have to hear, the sound has to be very loud.  *Bhagat singh*
+> Everything comes to us that belongs to us if we create the capacity to receive it -  *Ravindranath Tagore* <br>
+> If the deaf have to hear, the sound has to be very loud - *Bhagat singh*
 
