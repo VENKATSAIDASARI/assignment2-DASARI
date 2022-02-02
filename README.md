@@ -16,5 +16,5 @@ It's a very nice place to **dine in**. There is park behind this restaurant wher
     * Bagel
     * Hot chocolate
 
-[lINK FOR Aboutme.md]](https://github.com/VENKATSAIDASARI/assignment2-DASARI/blob/main/AboutMe.md)
+go to next file [page](AboutMe.md) local to this repo.
 
