@@ -20,7 +20,7 @@ Here is my favourite car ![rangerover](Documents/webapps-repos/assignment1-DASAR
 # Data Structures
 > A data structure is a particular way of organizing data in a computer so that it can be used effectively.<br>
 For example, we can store a list of items having the same data-type using the array data structure.<br>
-Let us have a look at this page [DataStructures]<https://www.geeksforgeeks.org/data-structures/>
+Let us have a look at this page <https://www.geeksforgeeks.org/data-structures/>
 ~~~
    {
     void make_set(int v) {
@@ -36,7 +36,7 @@ Let us have a look at this page [DataStructures]<https://www.geeksforgeeks.org/d
    
    }
 ~~~
-Go through this link for program[Code]<https://cp-algorithms.com/data_structures/disjoint_set_union.html>
+Go through this link for program <https://cp-algorithms.com/data_structures/disjoint_set_union.html>
 
 
 
