@@ -17,6 +17,8 @@ It's a very nice place to **dine in**. There is park behind this restaurant wher
     * Hot chocolaten
 
 go to next file [page](AboutMe.md) local to this repo.
+
+
 ---
 # Sports and Activities
 |Name of the sport/activity|Location|Money (if any personal equipment needed)|
